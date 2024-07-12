@@ -10,7 +10,7 @@ While it's been optimized for and tested with a sofle choc keyboard, it can be b
 * Fixes split side encoder not working ([PR #728](https://github.com/zmkfirmware/zmk/pull/728))
 * Fixes display not working if you toggle external power off and then on again ([Issue #674](https://github.com/zmkfirmware/zmk/issues/674))
 * Adds automatic disabling and enabling of external power when USB is disconnected or connected ([PR #1184](https://github.com/zmkfirmware/zmk/pull/1184))
-* Adds automatic disabling of backlight if the keyboard is idle ([PR #1179](https://github.com/zmkfirmware/zmk/pull/1179))
+* Adds automatic disabling of backlight if the keyboard is idle  ([PR #1179](https://github.com/zmkfirmware/zmk/pull/1179))
 
 Most of these fixes and features have not made it into the official zmk yet, because they don't meet the (very resaonable and completely understandable) code standards of the zmk maintainers.
 
