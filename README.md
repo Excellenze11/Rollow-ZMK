@@ -20,7 +20,7 @@ However, while these fixes and features may not meet the quality standards of th
 
 ### Adjust your zmk-config's west.yml
 
-If you already have an existing sofle config, you can adjust your `config/west.yml` file to use this fork instead of the official version.
+If you already have an existing sofle config, you can adjust your `config/west.yml` file to use this fork instead of the official version. 
 
 Use [this commit as an example](https://github.com/infused-kim/zmk-config-sofle/commit/6b770ebdb6ad505f102f6b157c5f354ae9c884d0) of how to do it.
 
